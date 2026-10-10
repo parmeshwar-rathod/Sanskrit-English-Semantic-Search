@@ -1,0 +1,252 @@
+{
+  "raw_corpus": [
+    {
+      "id": "bg_2_47",
+      "sanskrit": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥",
+      "iast": "karmany-evadhikaras te ma phalesu kadacana",
+      "topics": [
+        "what does this verse say about karma",
+        "duty without attachment to results",
+        "why should we act without expecting rewards"
+      ],
+      "gloss": "You have a right to perform your duty, but never to the fruit of that action; do not act for the sake of results, nor let attachment to inaction take hold of you."
+    },
+    {
+      "id": "bg_2_20",
+      "sanskrit": "न जायते म्रियते वा कदाचिन्नायं भूत्वा भविता वा न भूयः। अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे॥",
+      "iast": "na jayate mriyate va kadacin",
+      "topics": [
+        "is the soul immortal in the gita",
+        "what happens to the atman at death",
+        "eternal nature of the self"
+      ],
+      "gloss": "The self is never born and never dies; it is unborn, eternal, permanent and ancient, and is not slain when the body is slain."
+    },
+    {
+      "id": "bg_2_14",
+      "sanskrit": "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः। आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत॥",
+      "iast": "matra-sparsas tu kaunteya",
+      "topics": [
+        "how to deal with pleasure and pain",
+        "why are sensations temporary",
+        "advice on enduring hardship"
+      ],
+      "gloss": "Contact between the senses and their objects gives rise to heat and cold, pleasure and pain; these are fleeting and impermanent, so one should learn to tolerate them."
+    },
+    {
+      "id": "bg_3_21",
+      "sanskrit": "यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः। स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते॥",
+      "iast": "yad yad acarati sresthas",
+      "topics": [
+        "influence of leaders on society",
+        "why does example matter more than words",
+        "role model behaviour in the gita"
+      ],
+      "gloss": "Whatever a great person does, others follow; whatever standard they set, the world follows it."
+    },
+    {
+      "id": "bg_4_7",
+      "sanskrit": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत। अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम्॥",
+      "iast": "yada yada hi dharmasya glanir bhavati bharata",
+      "topics": [
+        "why does krishna say he incarnates",
+        "decline of dharma and divine intervention",
+        "purpose of avatars in the gita"
+      ],
+      "gloss": "Whenever righteousness declines and unrighteousness rises, I manifest myself, age after age."
+    },
+    {
+      "id": "bg_6_5",
+      "sanskrit": "उद्धरेदात्मनात्मानं नात्मानमवसादयेत्। आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः॥",
+      "iast": "uddhared atmanatmanam",
+      "topics": [
+        "self reliance in the gita",
+        "who is your own best friend or enemy",
+        "lifting yourself up by your own effort"
+      ],
+      "gloss": "One should lift oneself by one's own effort and not degrade oneself; the self alone is the friend of the self, and the self alone is its enemy."
+    },
+    {
+      "id": "bg_6_16",
+      "sanskrit": "नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नतः। न चातिस्वप्नशीलस्य जाग्रतो नैव चार्जुन॥",
+      "iast": "natyasnatas tu yogo 'sti",
+      "topics": [
+        "balanced lifestyle for yoga practice",
+        "eating and sleeping habits for meditation",
+        "moderation advice in the gita"
+      ],
+      "gloss": "Yoga is not for one who eats too much or too little, nor for one who sleeps too much or stays awake too much; balance in habits is essential."
+    },
+    {
+      "id": "bg_2_62_63",
+      "sanskrit": "ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते। सङ्गात्सञ्जायते कामः कामात्क्रोधोऽभिजायते॥",
+      "iast": "dhyayato visayan pumsah sangas tesupajayate",
+      "topics": [
+        "how does anger arise according to the gita",
+        "chain reaction from attachment to anger",
+        "psychology of desire and anger"
+      ],
+      "gloss": "Dwelling on sense objects creates attachment; attachment breeds desire; and desire, when frustrated, gives rise to anger."
+    },
+    {
+      "id": "bg_18_63",
+      "sanskrit": "इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया। विमृश्यैतदशेषेण यथेच्छसि तथा कुरु॥",
+      "iast": "iti te jnanam akhyatam guhyad guhyataram maya",
+      "topics": [
+        "does the gita ask for blind obedience",
+        "freedom of choice at the end of the gita",
+        "krishna's final instruction to arjuna"
+      ],
+      "gloss": "Thus this knowledge, more secret than all secrets, has been declared to you; reflect on it fully and then act as you choose."
+    },
+    {
+      "id": "bg_9_22",
+      "sanskrit": "अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते। तेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम्॥",
+      "iast": "ananyas cintayanto mam",
+      "topics": [
+        "divine protection for devotees",
+        "what does krishna promise to sincere devotees",
+        "meaning of yoga-kshema"
+      ],
+      "gloss": "For those who worship with single-minded devotion, thinking of nothing else, I personally provide for what they lack and preserve what they have."
+    },
+    {
+      "id": "bg_12_13_14",
+      "sanskrit": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च। निर्ममो निरहङ्कारः समदुःखसुखः क्षमी॥",
+      "iast": "advesta sarva-bhutanam maitrah karuna eva ca",
+      "topics": [
+        "qualities of an ideal devotee",
+        "what makes someone dear to god in the gita",
+        "description of a compassionate person"
+      ],
+      "gloss": "One who bears no ill will toward any being, who is friendly and compassionate, free from possessiveness and ego, equal in pleasure and pain, and forgiving — such a person is dear."
+    },
+    {
+      "id": "bg_2_48",
+      "sanskrit": "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय। सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते॥",
+      "iast": "yoga-sthah kuru karmani",
+      "topics": [
+        "definition of yoga in the gita",
+        "what does equanimity mean",
+        "acting with balance of mind"
+      ],
+      "gloss": "Perform your actions established in yoga, abandoning attachment, and remain even-minded in success and failure; this evenness of mind is called yoga."
+    },
+    {
+      "id": "bg_3_35",
+      "sanskrit": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्। स्वधर्मे निधनं श्रेयः परधर्मो भयावहः॥",
+      "iast": "sreyan sva-dharmo vigunah",
+      "topics": [
+        "why follow your own path in life",
+        "imperfect duty versus another's duty",
+        "svadharma explained"
+      ],
+      "gloss": "It is better to imperfectly follow one's own path than to perfectly follow another's; better to die pursuing one's own duty, for another's path is fraught with danger."
+    },
+    {
+      "id": "bg_4_18",
+      "sanskrit": "कर्मण्यकर्म यः पश्येदकर्मणि च कर्म यः। स बुद्धिमान्मनुष्येषु स युक्तः कृत्स्नकर्मकृत्॥",
+      "iast": "karmany akarma yah pasyed",
+      "topics": [
+        "paradox of action and inaction",
+        "who is truly wise according to the gita",
+        "seeing inaction in action"
+      ],
+      "gloss": "One who sees inaction in action, and action in inaction, is wise among people; such a person, though engaged in all activities, remains a true practitioner of yoga."
+    },
+    {
+      "id": "bg_6_35",
+      "sanskrit": "असंशयं महाबाहो मनो दुर्निग्रहं चलम्। अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते॥",
+      "iast": "asamsayam maha-baho mano durnigraham calam",
+      "topics": [
+        "how to control a restless mind",
+        "practice and detachment for mental discipline",
+        "taming the mind in the gita"
+      ],
+      "gloss": "The mind is indeed restless and hard to control, but it can be mastered through steady practice and detachment."
+    },
+    {
+      "id": "bg_16_21",
+      "sanskrit": "त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः। कामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत्॥",
+      "iast": "tri-vidham narakasyedam",
+      "topics": [
+        "three gates to self destruction in the gita",
+        "lust anger and greed",
+        "what should a person renounce"
+      ],
+      "gloss": "Lust, anger and greed are the three gateways to self-destruction; a person should abandon all three."
+    },
+    {
+      "id": "bg_15_7",
+      "sanskrit": "ममैवांशो जीवलोके जीवभूतः सनातनः। मनःषष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति॥",
+      "iast": "mamaivamso jiva-loke",
+      "topics": [
+        "relationship between the soul and the divine",
+        "what is the eternal fragment in living beings",
+        "mind and senses drawn from nature"
+      ],
+      "gloss": "The individual soul in this world is an eternal fragment of the divine self, and it draws to itself the mind and the five senses situated in material nature."
+    },
+    {
+      "id": "bg_2_11",
+      "sanskrit": "अशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे। गतासूनगतासूंश्च नानुशोचन्ति पण्डिताः॥",
+      "iast": "asocyan anvasocas tvam",
+      "topics": [
+        "why do the wise not grieve",
+        "opening teaching of the gita on grief",
+        "krishna's first response to arjuna's sorrow"
+      ],
+      "gloss": "You grieve for those who should not be grieved for, yet you speak words of wisdom; the truly wise do not mourn for the living or the dead."
+    },
+    {
+      "id": "bg_3_9",
+      "sanskrit": "यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः। तदर्थं कर्म कौन्तेय मुक्तसङ्गः समाचर॥",
+      "iast": "yajnarthat karmano 'nyatra",
+      "topics": [
+        "work as sacrifice in the gita",
+        "how to act without being bound by action",
+        "meaning of yajna as duty"
+      ],
+      "gloss": "Work done as an offering frees a person from bondage; all other work binds one to this world, so one should act without attachment, treating action as an offering."
+    },
+    {
+      "id": "bg_13_8_12",
+      "sanskrit": "अमानित्वमदम्भित्वमहिंसा क्षान्तिरार्जवम्। आचार्योपासनं शौचं स्थैर्यमात्मविनिग्रहः॥",
+      "iast": "amanitvam adambhitvam ahimsa ksantir arjavam",
+      "topics": [
+        "list of virtues in the gita",
+        "qualities that constitute true knowledge",
+        "humility nonviolence and self-control"
+      ],
+      "gloss": "Humility, freedom from pretension, non-violence, patience, honesty, service to a teacher, purity, steadfastness and self-control are described as constituting true knowledge."
+    }
+  ],
+  "splits": {
+    "train_ids": [
+      "bg_12_13_14",
+      "bg_13_8_12",
+      "bg_15_7",
+      "bg_16_21",
+      "bg_18_63",
+      "bg_2_11",
+      "bg_2_14",
+      "bg_2_20",
+      "bg_2_62_63",
+      "bg_3_35",
+      "bg_3_9",
+      "bg_4_18",
+      "bg_9_22"
+    ],
+    "val_ids": [
+      "bg_2_48",
+      "bg_4_7",
+      "bg_6_5"
+    ],
+    "test_ids": [
+      "bg_2_47",
+      "bg_3_21",
+      "bg_6_16",
+      "bg_6_35"
+    ]
+  }
+}
