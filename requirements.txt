@@ -1,4 +1,4 @@
 streamlit
-sentence-transformers
+sentence-transformers==3.4.1
 torch
 numpy
